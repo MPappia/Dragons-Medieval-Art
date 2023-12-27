@@ -1,0 +1,13 @@
+{
+  "id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in MPappia/Dragons-Medieval-Art project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json",
+    "label" : "Dragons in medieval art"
+  } ]
+}
