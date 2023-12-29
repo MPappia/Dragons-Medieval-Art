@@ -1,0 +1,159 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Representation of the Christlike lion, representing goodness.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Representation of the Christlike lion, representing goodness.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:17:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703859431240",
+    "dcterms:modified" : "2023-12-29T15:26:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=435,2266,704,599"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1138.48662,2265.52669h-351.88902v0h-351.88902v299.5984v299.5984h351.88902h351.88902v-299.5984z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,1,0],&quot;editable&quot;:true}\" id=\"rectangle_45e5ff19-3169-41f9-b94f-08a592c82f1b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"35.51957\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Predominance of pointed features, showing its ability to wound :&nbsp;ears, goatee, spikes and tail.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Predominance of pointed features, showing its ability to wound :&nbsp;ears, goatee, spikes and tail.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:14:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703859268559",
+    "dcterms:modified" : "2023-12-29T15:37:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1365,2245,93,45"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1370.46101,2261.73668l65.45455,-16.36364l21.81818,12.72727l-10.90909,20l-33.63636,10l-27.27273,2.72727l-20.90909,-25.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_6920a9a0-b9b1-4979-b535-8384759084de\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.09987\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1259,2373,39,47"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1258.64283,2381.73668l10.90909,0.90909v17.27273l0.90909,13.63636l11.81818,6.36364l6.36364,-15.45455l7.27273,-19.09091l1.81818,-12.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_f9d71e98-3962-4dde-b0e4-ab2cfd2b93cc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.09987\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1367,2292,176,261"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1405.00646,2355.37305l30.90909,17.27273l11.81818,23.63636l-4.54545,30.90909l-30.90909,30.90909l-45.45455,12.72727l50.90909,81.81818l36.36364,-7.27273l23.63636,-20l20.90909,-20l30,-44.54545l8.18182,-40l6.36364,-40l-8.18182,-35.45455l-31.81818,-33.63636l-40,-20l-58.18182,5.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_263f9173-0e10-432b-a1bf-8cb1bfa3e784\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.09987\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1492,2600,199,351"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1561.57634,2624.35511l43.63636,-24.54545l45.45455,14.54545l16.36364,35.45455l1.81818,42.72727l-6.36364,34.54545l-12.72727,22.72727l40.90909,29.09091l0.90909,30.90909l-8.18182,34.54545l-41.81818,10l12.72727,35.64489l-18.18182,47.27273l-56.36364,13.63636l-87.27273,-22.72727l66.36364,-103.63636l25.45455,-27.27273h24.54545l-12.72727,-27.72727l18.18182,-38.18182l20,-43.63636l7.27273,-27.27273l-13.63636,-24.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_dc52bcce-bbdf-4966-bdfe-2f22ae46ada4\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.09987\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Representation of the the forces of evil and chaos.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Representation of the the forces of evil and chaos.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:16:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703859402336",
+    "dcterms:modified" : "2023-12-29T15:26:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1186,2200,556,782"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1186.27112,2199.92553h278.10836v0h278.10836v391.21382v391.21382h-278.10836h-278.10836v-391.21382z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_faa180aa-be44-4aa6-83df-1a388b60ce95\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"26.63968\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Perceval_annot.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
