@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bipedal dragon with two heads, fowl legs, bat wings and polychrome. Mix of hair or feathers and scales.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bipedal dragon with two heads, fowl legs, bat wings and polychrome. Mix of hair or feathers and scales.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:33:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703860406778",
+    "dcterms:modified" : "2023-12-29T15:39:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2801,1799,615,670"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2800.5473,1957.81066l156.08553,-61.07695l196.80349,-63.33905l83.69804,-33.93164l70.12538,2.26211l49.7664,47.50429l52.02851,47.50429l4.52422,74.6496l2.26211,122.15389l-61.07695,128.94022l-24.8832,210.37615l-149.2992,36.19375l-178.70662,-13.57265l-160.60975,-95.00858l-24.8832,-232.99724z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_b06e5e52-1d8a-41c1-a55a-ae271d7dd8ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"68.81511\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a5807a06-a7eb-42b2-9672-484aa3983863"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bipedal dragon with two heads; bat wings; hair-covered; feline head and legs. A second mouse head (?)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bipedal dragon with two heads; bat wings; hair-covered; feline head and legs. A second mouse head (?)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:45:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703861156622",
+    "dcterms:modified" : "2023-12-29T15:39:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3280,1357,629,727"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3819.48831,1357.243l74.26957,46.90709l11.72677,226.71762l3.90892,320.53181l-261.89794,132.90343l-367.4389,-437.79955l93.81419,-144.63021l-3.90892,-93.81419z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_e81a683c-23ae-4233-a9ab-e83d3c05958c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"68.81511\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a5807a06-a7eb-42b2-9672-484aa3983863"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wingless bipedal dragon; feline paws; covered with hair.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wingless bipedal dragon; feline paws; covered with hair.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:32:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703860340960",
+    "dcterms:modified" : "2023-12-29T15:37:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1884,1824,661,579"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1886.65523,2288.07858l137.98865,-110.84335l169.65818,-174.1824l140.25076,-178.70662l126.67811,13.57265l83.69804,101.79491l-47.50429,92.74647l4.52422,95.00858l-31.66953,187.75505l-176.44451,88.22225l-407.17964,-106.31913h-2.26211v0z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_8fa2d7cf-5173-48ef-ba5a-c4db40318e7d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"68.81511\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a5807a06-a7eb-42b2-9672-484aa3983863"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dragon with canine head, fowl wings, covered with hair (?), no legs (?), goatee present.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dragon with canine head, fowl wings, covered with hair (?), no legs (?), goatee present.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:35:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703860512463",
+    "dcterms:modified" : "2023-12-29T15:39:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1778,1587,500,299"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1803.2803,1606.15559l137.61164,-18.85091l98.02473,66.92073l203.58982,-58.43782l35.81673,-1.88509l-229.98109,275.22327l-125.35855,16.96582l-145.152,-257.31491z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_f8038146-3634-42aa-a9ee-7a59d6c8b667\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"68.81511\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a5807a06-a7eb-42b2-9672-484aa3983863"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Yunnan_annot.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
