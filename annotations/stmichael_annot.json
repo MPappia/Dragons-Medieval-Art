@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Disproportionate claws.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Disproportionate claws.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T15:04:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703862293770",
+    "dcterms:modified" : "2023-12-29T15:41:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=742,500,96,125"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M755.87677,518.71615c8.89361,-10.50233 21.4395,-18.32306 34.04618,-18.31372v0v0c12.60668,0.00934 23.58922,7.32551 34.04618,18.31372c10.45696,10.98821 14.52145,27.73212 14.10239,44.21324c-0.41906,16.48112 -5.32168,32.69944 -14.10239,44.21324c-8.78071,11.5138 -21.4395,18.32306 -34.04618,18.31372c-12.60668,-0.00934 -25.16125,-6.8373 -34.04618,-18.31372c-8.88493,-11.47642 -14.10022,-27.60131 -14.10239,-44.21324c-0.00217,-16.61193 5.20878,-33.71091 14.10239,-44.21324z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_fb043775-81a2-4b56-a9e4-1b914c463d48\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"16.42105\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20310c32-64b0-4a9c-9731-04a00257a42f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Saint Michael against the dragon. On one side, an archangel with a beauty of line, on the other, the beastly, monstrous dragon.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Saint Michael against the dragon. On one side, an archangel with a beauty of line, on the other, the beastly, monstrous dragon.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:59:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703861990254",
+    "dcterms:modified" : "2023-12-29T15:40:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=185,114,710,556"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M190.86071,235.64871l44.1886,1.42544l81.25,-61.74307l128.28947,-55.59424l105.48246,-5.70175l68.42105,7.12719l75.54825,19.95614l82.67544,47.03947l61.29386,51.31579l57.01754,5.70175l-7.12719,424.7807l-702.74123,-5.70175z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_2adf65ce-144b-413e-806f-18ec59084383\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"16.42105\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20310c32-64b0-4a9c-9731-04a00257a42f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Bear's head (?); bright red tongue.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Bear's head (?); bright red tongue.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T15:01:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703862070766",
+    "dcterms:modified" : "2023-12-29T15:40:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=582,225,107,112"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M597.17588,241.60768c9.87726,-9.41856 23.81075,-16.43224 37.81175,-16.42386v0v0c14.001,0.00838 26.19823,6.56957 37.81175,16.42386c11.61352,9.85429 16.12755,24.87033 15.66214,39.6507c-0.46541,14.78037 -5.91027,29.32506 -15.66214,39.6507c-9.75187,10.32564 -23.81075,16.43224 -37.81175,16.42386c-14.001,-0.00838 -27.94413,-6.13173 -37.81175,-16.42386c-9.86762,-10.29213 -15.65973,-24.75302 -15.66214,-39.6507c-0.00241,-14.89768 5.78488,-30.23214 15.66214,-39.6507z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_a9c8bf0e-1360-4b02-9dc1-e9f861ada7c9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"16.42105\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20310c32-64b0-4a9c-9731-04a00257a42f"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Striped torso, evoking the body of an earthworm. Emphasizes the monstrous nature of the beast.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Striped torso, evoking the body of an earthworm. Emphasizes the monstrous nature of the beast.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T15:04:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703862265211",
+    "dcterms:modified" : "2023-12-29T15:41:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=649,304,115,184"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M661.24185,342.59717l-12.72727,33.63636v22.72727l10.90909,30l24.54545,27.27273l24.54545,16.36364l55.45455,15.45455l-15.45455,-21.81818l-20,-41.81818l-4.54545,-81.81818l-20.90909,-38.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_02dc71bd-3159-46f3-9d04-4b24e8f0ce25\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"16.42105\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://20310c32-64b0-4a9c-9731-04a00257a42f"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/stmichael_annot.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
