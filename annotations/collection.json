@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://MPappia.github.io/Dragons-Medieval-Art/annotations/dragon_apo_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/aberdeen_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/StMarina_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Perceval_annot.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Yunnan_annot.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/salisbury_annot.json" ],
+  "otherContent" : [ "https://MPappia.github.io/Dragons-Medieval-Art/annotations/dragon_apo_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/aberdeen_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/StMarina_annotation.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Perceval_annot.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/Yunnan_annot.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/salisbury_annot.json", "https://MPappia.github.io/Dragons-Medieval-Art/annotations/stmichael_annot.json" ],
   "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/collection.json",
   "label" : "All annotations loaded in MPappia/Dragons-Medieval-Art project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
