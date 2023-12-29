@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json",
     "label" : "Dragons in medieval art"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V02.json",
+    "label" : "Dragons in medieval art"
   } ]
 }
