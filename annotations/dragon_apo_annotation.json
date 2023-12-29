@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Illumination: Saint Michael facing the dragon of the Apocalypse.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Illumination: <strong>Saint Michael</strong> facing the <strong>dragon</strong> <strong>of the Apocalypse.</strong></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T12:49:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703854168739",
+    "dcterms:modified" : "2023-12-29T15:21:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=132,302,1411,922"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M131.53846,302.18521h705.30769v0h705.30769v460.84615v460.84615h-705.30769h-705.30769v-460.84615z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_fa9be634-a57a-4207-96e2-0d9de59bd9f6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.71795\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://abdfbd40-bd7f-423d-aa32-fa87ee5e0026"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blue horns and green diadem, as mentioned in the Bible.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Blue horns and green diadem, as mentioned in the Bible.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T12:50:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703854232117",
+    "dcterms:modified" : "2023-12-29T15:20:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1035,844,205,195"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1065.2525,872.89503c18.95235,-16.33466 45.6877,-28.49852 72.55262,-28.48399v0v0c26.86492,0.01453 50.26876,11.39363 72.55262,28.48399c22.28386,17.09036 30.94531,43.13276 30.05228,68.76644c-0.89303,25.63368 -11.34054,50.85862 -30.05228,68.76644c-18.71174,17.90782 -45.6877,28.49852 -72.55262,28.48399c-26.86492,-0.01453 -53.61878,-10.6343 -72.55262,-28.48399c-18.93384,-17.84969 -30.04765,-42.92931 -30.05228,-68.76644c-0.00463,-25.83713 11.09993,-52.43178 30.05228,-68.76644z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_f8ab57b8-5d25-4735-8b83-6bce2205037e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.71795\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://abdfbd40-bd7f-423d-aa32-fa87ee5e0026"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Heaviness of the dragon; taking up the entire frame of the illumination and even extending beyond it.\nBiped; bird wings.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Heaviness of the dragon; taking up the entire frame of the illumination and even extending beyond it.</p>\n<p>Biped; bird wings.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T12:52:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703854359261",
+    "dcterms:modified" : "2023-12-29T15:21:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=136,738,1393,515"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M188.65812,737.97807l-40.68376,47.86325l-11.96581,100.51282l43.07692,38.2906l-4.78632,93.33333l14.35897,95.7265l67.00855,69.40171l160.34188,14.35897l174.70085,-2.39316l189.05983,57.4359l124.44444,-45.47009l33.50427,33.50427l134.01709,-23.93162l301.53846,-47.86325l155.55556,-81.36752l-16.75214,-145.98291l-26.32479,-167.52137l-126.83761,-9.57265l-155.55556,-2.39316l-112.47863,26.32479l-62.22222,69.40171l-21.53846,67.00855l-315.89744,67.00855l-239.31624,52.64957z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_0d8a89a3-6402-46b3-b97d-dda6afc7197b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"28.71795\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://abdfbd40-bd7f-423d-aa32-fa87ee5e0026"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/dragon_apo_annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
