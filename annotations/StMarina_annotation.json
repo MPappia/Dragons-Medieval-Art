@@ -1,0 +1,141 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Second head of dog.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Second head of dog.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T13:57:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703858223297",
+    "dcterms:modified" : "2023-12-29T15:25:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1459,963,256,176"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1714.25841,1139.13553h-127.84379v0h-127.84379v-87.85779v-87.85779h127.84379h127.84379v87.85779z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e808eee0-b04f-4024-8b6f-e535d8d5ab6b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.87449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Feline head and paws.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Feline head and paws.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T13:55:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703858137973",
+    "dcterms:modified" : "2023-12-29T15:24:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=568,2068,662,408"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M568.33116,2068.02731h330.88454v0h330.88454v203.92897v203.92897h-330.88454h-330.88454v-203.92897z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_21b98c7d-7414-4df2-b43d-36ef0a952256\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.87449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=359,1108,536,488"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M437.44074,1179.16822c49.44672,-40.95758 119.19934,-71.4573 189.28997,-71.42086v0v0c70.09063,0.03644 131.15133,28.56843 189.28997,71.42086c58.13864,42.85243 80.73639,108.15125 78.40647,172.42522c-2.32992,64.27397 -29.5875,127.52308 -78.40647,172.42522c-48.81897,44.90214 -119.19934,71.4573 -189.28997,71.42086c-70.09063,-0.03644 -139.89154,-26.66448 -189.28997,-71.42086c-49.39843,-44.75638 -78.3944,-107.6411 -78.40647,-172.42522c-0.01207,-64.78412 28.95975,-131.46764 78.40647,-172.42522z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_8f20b515-26b8-4577-a711-795263235a40\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.87449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Saurian neck and tail.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Saurian neck and tail.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T13:55:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703858122508",
+    "dcterms:modified" : "2023-12-29T15:24:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=477,1514,292,366"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M477.29259,1513.72534h145.94927v0h145.94927v182.93632v182.93632h-145.94927h-145.94927v-182.93632z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1dc49a70-567c-4a2d-9e5b-3fe4e1fbd56e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.87449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1387,1219,421,1170"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1544.56809,1221.97579l143.87014,-2.71453l105.86671,306.74199l13.57265,374.60527l-135.72655,412.6087l-146.58467,76.00687l-103.15217,-51.57609l-35.2889,-152.01373l27.14531,-108.58124l54.29062,-8.14359z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_be2e190c-abd6-42fc-a43b-76464dc898fe\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.87449\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/StMarina_annotation.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
