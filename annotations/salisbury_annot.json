@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Salisbury Dragon: A standard in the Roman, the illuminator depicts it as a creature in its own right, spitting flames. Bipedal with a mouth like the bow of a drakkar.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Salisbury Dragon: A standard in the Roman, the illuminator depicts it as a creature in its own right, spitting flames. Bipedal with a mouth like the bow of a drakkar.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102623712",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-29T14:46:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703861199990",
+    "dcterms:modified" : "2023-12-29T15:40:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V01.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1015,474,404,147"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1014.73937,473.54012h201.90909v0h201.90909v73.72727v73.72727h-201.90909h-201.90909v-73.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,1],&quot;editable&quot;:true}\" id=\"rectangle_480efe4c-0cff-4ee8-84c3-7d12fe7284cc\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"36.89069\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bfd9ad24-46c9-4d97-a5e6-0fb7e14fa658"
+    } ]
+  } ],
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/annotations/salisbury_annot.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
