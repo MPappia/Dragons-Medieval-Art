@@ -1,0 +1,312 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://MPappia.github.io/Dragons-Medieval-Art/manifests/manifest_V02.json",
+  "@type" : "sc:Manifest",
+  "label" : "Dragons in medieval art",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "IIIF project on the representation of dragons in medieval art. Project carried out as part of training at IIIF for the M2 TNAH English course at the École Nationale des Chartes.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "BNF, département des Manuscrits; University of Aberdeen; ",
+  "sequences" : [ {
+    "@id" : "http://f8921942-8cac-4258-951f-7871b9d0efbf",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://abdfbd40-bd7f-423d-aa32-fa87ee5e0026",
+      "@type" : "sc:Canvas",
+      "label" : "Dragon_apocalypse",
+      "height" : 2660,
+      "width" : 1818,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://159ae171-25f8-42f2-b2bd-4b54fec10638",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : " https://iiif.archivelab.org/iiif/combat-contre-le-dragon-bible-apocalypse_202312/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : " https://iiif.archivelab.org/iiif/combat-contre-le-dragon-bible-apocalypse_202312",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2660,
+          "width" : 1818
+        },
+        "on" : "http://abdfbd40-bd7f-423d-aa32-fa87ee5e0026"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Combat contre le dragon"
+      }, {
+        "label" : "Author",
+        "value" : "Maître de Sarum"
+      }, {
+        "label" : "Date",
+        "value" : "13th century"
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BNF, département des Manuscrits, Français 403, fol. 20"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Salisbury (Wiltshire, United Kingdom)"
+      } ]
+    }, {
+      "@id" : "http://89d40ed5-ed83-4e89-8a97-a027103e20b7",
+      "@type" : "sc:Canvas",
+      "label" : "dragon_aberdeen",
+      "height" : 1625,
+      "width" : 1056,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2adb445b-c66a-45d2-aba1-57bf76b19b60",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : " https://iiif.archivelab.org/iiif/dragon_aberdeen/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : " https://iiif.archivelab.org/iiif/dragon_aberdeen",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1625,
+          "width" : 1056
+        },
+        "on" : "http://89d40ed5-ed83-4e89-8a97-a027103e20b7"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Anphivenas dragon"
+      }, {
+        "label" : "Date",
+        "value" : "13th century"
+      }, {
+        "label" : "Place of conservation",
+        "value" : "The Aberdeen Bestiary, MS 24, Aberdeen University."
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "United Kingdom"
+      } ]
+    }, {
+      "@id" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65",
+      "@type" : "sc:Canvas",
+      "label" : "Saint_Marina_dragon",
+      "height" : 3072,
+      "width" : 2564,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://527726b9-298b-4c8f-ba15-bb243a7cafb9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/marguerite_dragon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/marguerite_dragon",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3072,
+          "width" : 2564
+        },
+        "on" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Sainte Marguerite et le dragon."
+      }, {
+        "label" : "Date",
+        "value" : "13th century."
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BnF, département des Manuscrits, Nouvelle acquisition française 16251, fol. 100"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Hainaut, Belgium."
+      } ]
+    }, {
+      "@id" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa",
+      "@type" : "sc:Canvas",
+      "label" : "Perceval_dragon",
+      "height" : 3290,
+      "width" : 2239,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7d6718e4-b2cc-4167-b933-16778328cdb1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/lancelot-dragon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/lancelot-dragon",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3290,
+          "width" : 2239
+        },
+        "on" : "http://a0fd5377-94e2-4be3-9f1d-d59d760aeeaa"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Perceval combattant le dragon"
+      }, {
+        "label" : "Date",
+        "value" : "14th century."
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BnF, Français 343 f.27v"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Pavia / Milan, Italy."
+      } ]
+    }, {
+      "@id" : "http://a5807a06-a7eb-42b2-9672-484aa3983863",
+      "@type" : "sc:Canvas",
+      "label" : "yunnan_dragons",
+      "height" : 6374,
+      "width" : 4610,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e180c8c9-28c8-4ee5-a9fc-b7e86c43f118",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : " https://iiif.archivelab.org/iiif/dragon_Yunnan/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : " https://iiif.archivelab.org/iiif/dragon_Yunnan",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 6374,
+          "width" : 4610
+        },
+        "on" : "http://a5807a06-a7eb-42b2-9672-484aa3983863"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Faune : dragons du Yunnan"
+      }, {
+        "label" : "Author",
+        "value" : "Evrard d'Espinque, Maître d'Egerton, Maître de la Mazarine"
+      }, {
+        "label" : "Date",
+        "value" : "15th century."
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BnF, Département des Manuscrits, Français 2810"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Paris, France"
+      } ]
+    }, {
+      "@id" : "http://bfd9ad24-46c9-4d97-a5e6-0fb7e14fa658",
+      "@type" : "sc:Canvas",
+      "label" : "battle_salisbury_dragon",
+      "height" : 3417,
+      "width" : 2484,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://67005447-a221-4e92-aa4a-d42d1105d9cc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/bataille_salisbury/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/bataille_salisbury",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3417,
+          "width" : 2484
+        },
+        "on" : "http://bfd9ad24-46c9-4d97-a5e6-0fb7e14fa658"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Bataille de Salisbury"
+      }, {
+        "label" : "Author",
+        "value" : "Jean Colombe, Maître de Charles de France"
+      }, {
+        "label" : "Date",
+        "value" : "15th century."
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BnF, Département des Manuscrits, Français 91"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Bourges, Cher, France."
+      } ]
+    }, {
+      "@id" : "http://20310c32-64b0-4a9c-9731-04a00257a42f",
+      "@type" : "sc:Canvas",
+      "label" : "Saint_Michael_dragon",
+      "height" : 1521,
+      "width" : 1236,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0eceeeb8-dfc2-46b1-8f18-19b46454dd18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/st_michael_dragon/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/st_michael_dragon",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 1521,
+          "width" : 1236
+        },
+        "on" : "http://20310c32-64b0-4a9c-9731-04a00257a42f"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "Saint Michel terrassant le dragon"
+      }, {
+        "label" : "Author",
+        "value" : "François Le Barbier fils"
+      }, {
+        "label" : "Date",
+        "value" : "15th century."
+      }, {
+        "label" : "Place of conservation",
+        "value" : "Paris, BnF, département des Manuscrits, Français 14363, fol. 6"
+      }, {
+        "label" : "Place of manufacture",
+        "value" : "Moulins, Allier, France."
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://fa53ab9d-9620-4041-ad62-ca0d834d0c65"
+  }
+}
