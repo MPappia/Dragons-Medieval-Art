@@ -59,7 +59,13 @@
       }, {
         "label" : "Place of manufacture",
         "value" : "Salisbury (Wiltshire, United Kingdom)"
-      } ]
+      } ],
+      "otherContent": [
+    {
+        "@id": "https://mpappia.github.io/Dragons-Medieval-Art/annotations/dragon_apo_annotation.json",
+        "@type": "sc:AnnotationList",
+        "label" : "Mon premier essai d'annotation IIIF"
+    }]
     }, {
       "@id" : "http://89d40ed5-ed83-4e89-8a97-a027103e20b7",
       "@type" : "sc:Canvas",
