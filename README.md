@@ -5,5 +5,13 @@ What these images have in common is the representation of dragons between the 13
 
 The use of IIIF standards can be used here to isolate the parts of the manuscripts that interest us, to understand the illuminations, and to annotate these parts to add a description or comment on the representation of these fantastic creatures. 
 
+In this GitHub repository, you will find:
 
-Thanks for reading. 
+- The presentation of my project in PDF format.
+- A folder named "Images" containing the images used in this project.
+- The "manifest" folder containing the final IIIF manifest.
+- The "Annotation" folder where various annotations made on the project images are located.
+
+The manifest is accessible via this link: [Dragons_Mani_V2Final](https://mpappia.github.io/Dragons-Medieval-Art/manifests/Dragons_Mani_V2Final). You can use it with your favorite IIIF viewer. Here's one (not your favorite, but an example, of course): [Mirador Viewer](http://iiif.gdmrdigital.com/mirador/index.html).
+
+Thanks for reading, and enjoy. 
