@@ -1,5 +1,4 @@
-#Here is a README.txt in which I present my IIIF project.
-
+Dragons in medevial art - IIIF Project - M2 TNAH
 
 My IIIF project is about the representation of dragons in medieval art, and more specifically in illuminations. To do this, I chose 7 images from different manuscripts. 
 What these images have in common is the representation of dragons between the 13th and 15th centuries. They are different from the modern collective imagination, with large, winged creatures in dark colours. 
